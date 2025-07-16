@@ -6,7 +6,7 @@ Jupyter AI connects generative AI with Jupyter notebooks. Jupyter AI provides a 
 and powerful way to explore generative AI models in notebooks and improve your productivity
 in JupyterLab and the Jupyter Notebook. More specifically, Jupyter AI offers:
 
-* An `%%ai` magic that turns the Jupyter notebook into a reproducible generative AI playground.
+* An `%%ai` magic that turns the Jupyter notebook into a generative AI playground.
   This works anywhere the IPython kernel runs (JupyterLab, Jupyter Notebook, Google Colab, Kaggle, VSCode, etc.).
 * A native chat UI in JupyterLab that enables you to work with generative AI as a conversational assistant.
 * Support for a wide range of generative model providers, including AI21, Anthropic, AWS, Cohere,
